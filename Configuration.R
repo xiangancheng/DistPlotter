@@ -14,3 +14,5 @@ use_git()
 use_github()
 library(usethis)
 usethis::use_r("bio_plots")
+
+usethis::use_r("paper_plots")
