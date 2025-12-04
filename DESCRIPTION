@@ -10,7 +10,7 @@ Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.3
 Imports: 
-    ggplot2
+    ggplot2,
     dplyr 
 URL: https://github.com/xiangancheng/DistPlotter
 BugReports: https://github.com/xiangancheng/DistPlotter/issues
